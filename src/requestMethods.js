@@ -15,7 +15,7 @@
 
 import axios from "axios";
 
-const BASE_URL = "http://localhost:5000/api/";
+const BASE_URL = "https://e-commence-api-2n0f.onrender.com/api/";
 
 // Check if localStorage item exists and has the expected structure
 // const persistedData = JSON.parse(localStorage.getItem("persist:root"));
